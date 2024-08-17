@@ -8,9 +8,9 @@ In this project, I dived deep into sales data analysis for AdventureWorks. Using
 **Sales Channels:** Analyzed the split between online and offline revenues, providing actionable insights to enhance both channels.
 
 #### Tools & Technologies:
-**Tableau:** For interactive and insightful data visualizations.
-**BigQuery (SQL):** For robust data querying and management.
-**Google Sheet:** For basic data analytics and result extraction.
+- **Tableau:** For interactive and insightful data visualizations.
+- **BigQuery (SQL):** For robust data querying and management.
+- **Google Sheet:** For basic data analytics and result extraction.
 
 
 - 🔍 Insights for Executives: High-level strategic recommendations to enhance performance metrics and achieve organizational goals. 
