@@ -29,3 +29,9 @@ Data analytics and visualization.
 [Spreadsheet (general):](https://docs.google.com/spreadsheets/d/12_10iUaIah6Ozf1dtxwrmOdVqGtrco_8vLBBLr0vp9c/edit?usp=sharing)
 
 [SQL query](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Adventureworks%20SQL_Query.sql)
+
+[Executive presentation slides](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Executive%20presentation-%20Adeventureworks%20Turing.pdf)
+
+[Sales department presentation slides](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Sales%20department%20presentation-%20Adeventureworks%20Turing.pdf)
+
+Note: *I have also attached the .sql file to this repository*.
