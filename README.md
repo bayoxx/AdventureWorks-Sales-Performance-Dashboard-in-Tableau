@@ -3,9 +3,9 @@ In this project, I dived deep into sales data analysis for AdventureWorks. Using
 
 #### Key Insights and Strategic Solutions:
 
-**Product Performance:** Identified key products driving profits and those generating losses over a period span (in fiscal year).
-**Regional Analysis:** Highlighted regions consistently generating losses, providing a strategic focus for improvement.
-**Sales Channels:** Analyzed the split between online and offline revenues, providing actionable insights to enhance both channels.
+1. **Product Performance:** Identified key products driving profits and those generating losses over a period span (in fiscal year).
+2. **Regional Analysis:** Highlighted regions consistently generating losses, providing a strategic focus for improvement.
+3. **Sales Channels:** Analyzed the split between online and offline revenues, providing actionable insights to enhance both channels.
 
 #### Tools & Technologies:
 - **Tableau:** For interactive and insightful data visualizations.
