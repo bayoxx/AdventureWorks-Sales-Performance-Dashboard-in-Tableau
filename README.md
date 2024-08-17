@@ -28,3 +28,4 @@ Data analytics and visualization.
 
 [Spreadsheet (general):](https://docs.google.com/spreadsheets/d/12_10iUaIah6Ozf1dtxwrmOdVqGtrco_8vLBBLr0vp9c/edit?usp=sharing)
 
+[SQL query](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Adventureworks%20SQL_Query.sql)
