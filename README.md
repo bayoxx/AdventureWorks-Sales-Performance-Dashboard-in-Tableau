@@ -24,12 +24,6 @@ Data analytics and visualization.
 
 [**Link to the Tableau dashboard:**](https://public.tableau.com/views/Adventureworks-TC/Dashboard-overview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[Spreadsheet (extracted; query + results)](https://docs.google.com/spreadsheets/d/1cVTDGbNEReiQnlDK4HW-lrT0VMIk_MhnDBN_Egiylxo/edit?usp=sharing)
-
-[Spreadsheet (general):](https://docs.google.com/spreadsheets/d/12_10iUaIah6Ozf1dtxwrmOdVqGtrco_8vLBBLr0vp9c/edit?usp=sharing)
-
-[SQL query](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Adventureworks%20SQL_Query.sql)
-
 [Executive presentation slides](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Executive%20presentation-%20Adeventureworks%20Turing.pdf)
 
 [Sales department presentation slides](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Sales%20department%20presentation-%20Adeventureworks%20Turing.pdf)
