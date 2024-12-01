@@ -35,6 +35,7 @@ Data analytics and visualization.
 [Sales department presentation slides](https://github.com/bayoxx/AdventureWorks-Sales-Performance-Dashboard-in-Tableau/blob/main/Sales%20department%20presentation-%20Adeventureworks%20Turing.pdf)
 
 Note: *I have also attached the .sql file to this repository*.
+<img width="1388" alt="Screenshot 2024-12-01 at 7 56 28 AM" src="https://github.com/user-attachments/assets/156fdde6-73ac-4dd3-8163-90095459f380">
 
-![Uploading Screenshot 2024-12-01 at 7.52.30 AM.png…]()
+
 
